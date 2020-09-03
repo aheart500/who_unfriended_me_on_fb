@@ -5,12 +5,12 @@ First you have to install selenium module for browser automation
 ``` 
 pip3 install selenium 
 ```
-Then you have to download the chrome driver compatible with your chrome browser version from here https://chromedriver.chromium.org/
+__Then__ you have to download the chrome driver compatible with your chrome browser version from here https://chromedriver.chromium.org/
 
 __Note__: The code can run on any browser. Just change the selenium configuration to match your browser
 
-Lastly, you have to provide your facebook creditintials at the beginning of the file.
+__Lastly__, you have to provide your facebook creditintials at the beginning of the file.
 
 If you encountered any problem don't tell me. I wrote it long time ago and I know it sucks but it just does the work for me. 
 
-__Spoiler Alert__: You will get sad each time you use this code after knowing how removed you. 
+__Spoiler Alert__: You will get sad each time you use this code after knowing who removed you. 
